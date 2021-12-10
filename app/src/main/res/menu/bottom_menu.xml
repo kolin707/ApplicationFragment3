@@ -5,18 +5,12 @@
     <item
         android:id="@+id/fragment_1"
         android:enabled="true"
-        android:icon="@drawable/ic_action_name"
+        android:icon="@drawable/game_pic"
         android:title="@string/_1_fragment" />
     <item
         android:id="@+id/fragment_2"
         android:enabled="true"
-        android:icon="@drawable/ic_action_name2"
+        android:icon="@drawable/about_pic"
         android:title="@string/_2_fragment" />
-    <item
-        android:id="@+id/fragment_3"
-        android:enabled="true"
-        android:icon="@drawable/ic_action_name3"
-        android:title="@string/_3_fragment" />
-
 
     </menu>

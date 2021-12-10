@@ -7,8 +7,10 @@
     <string name="switch_fragment">Switch Fragment</string>
     <string name="start_fragment">Start Fragment</string>
     <string name="end_fragment">End Fragment</string>
-    <string name="_1_fragment">1 fragment</string>
-    <string name="_2_fragment">2 fragment</string>
+    <string name="_1_fragment">Game</string>
+    <string name="_2_fragment">About Money</string>
     <string name="_3_fragment">3 fragment</string>
+    <string name="toss_a_coin">toss a coin</string>
+    <string name="form_money">Most Tradable Currencies:</string>
 
 </resources>
